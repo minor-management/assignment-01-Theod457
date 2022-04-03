@@ -1,7 +1,5 @@
 ### Type your answer after every question. You are required to cite your reference for every question.
 
-Email: shengtheodore@student.usm.my
-
 E.g. Question <br>
 {Answer} {Reference}
 
@@ -79,7 +77,7 @@ In terms of liquidity, both companies have more than enough cash for all their s
 
 ViTrox had lower net profit margin(23.45%) as compared to that of Pentamaster(26.75%). However, when analysed in terms of return on equity, ViTrox edged out by a slight margin, with 16.51%, as opposed to Pentamaster with 13.94%. Return on equity is the net income of the company, divided by the shareholder's equity, which determine the efficiency of profit generation by the company. As each company holds a win for 2 different profitability metric, we award a tie in terms of profitability.
 
-Pentamaster has significantly higher growth in terms of revenue and net profit. While past performance doesn't guarantee future profit(for what we know, the burst growth of Pentamaster may not be sustainable, while the slower growth of ViTrox may be more consistent), Pentamaster wins in terms of growth, despite both companies being part of the same industry that are facing the same competition. Pentamaster has significantly lower share price than ViTrox despite having much higher growth. While share price is not everything in evaluating a company, te fact that Pentamaster has lower share price is a win for Pentamaster(more accessable to the public). As growth companies, the divident yield of both companies are not very significant, hence they are not included in the comparison of both companies.
+Pentamaster has significantly higher growth in terms of revenue and net profit. While past performance doesn't guarantee future profit(for what we know, the burst growth of Pentamaster may not be sustainable, while the slower growth of ViTrox may be more consistent), Pentamaster wins in terms of growth, despite both companies being part of the same industry that are facing the same competition. Pentamaster has significantly lower share price than ViTrox despite having much higher growth. While share price is not everything in evaluating a company, the fact that Pentamaster has lower share price is a win for Pentamaster(more accessable to the public). As growth companies, the divident yield of both companies are not very significant, hence they are not included in the comparison of both companies.
 
 After the analysis, I will choose to invest in pentamaster, due to its superior statistics in growth, profits(net and ROE), along with its higher liquidity, which can translate to company stability to a certain degree.
 
